@@ -1,4 +1,4 @@
-# p-timeout test
+# p-timeout test test
 
 > Timeout a promise after a specified amount of time
 
