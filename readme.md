@@ -1,7 +1,7 @@
 # p-timeout test test   dawdawddwad WDWADWADWAD WAD WAD WAD
 
 > Timeout a promise after a specified amount of time   
-
+thtrhrth
 ## Install
 
 ```sh
