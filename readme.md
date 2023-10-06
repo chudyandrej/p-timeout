@@ -1,4 +1,4 @@
-# p-timeout test test   dawdawddwad WDWADWADWAD WAD WAD WAD can you seee this? ra app only .git
+# p-timeout test test   dawdawddwad WDWADWADWAD WAD WAD WAD can you seee this? ra app only .git aws sync
 fefefwadawd new git
 > Timeout a promise after a specified amount of time   
 thtrhrth
